@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp6.exe
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\ClassLibrary1.dll
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\ClassLibrary2.dll
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\ClassLibrary1.pdb
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\bin\Debug\ClassLibrary2.pdb
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp6.exe
+C:\Users\1\Desktop\OS\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp6.pdb

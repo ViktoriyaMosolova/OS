@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
