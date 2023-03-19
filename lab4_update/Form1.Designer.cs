@@ -40,6 +40,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.textBox4 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).BeginInit();
             this.SuspendLayout();
@@ -91,7 +92,7 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 20F);
-            this.label3.Location = new System.Drawing.Point(28, 242);
+            this.label3.Location = new System.Drawing.Point(28, 229);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(82, 31);
             this.label3.TabIndex = 4;
@@ -101,7 +102,7 @@
             // 
             this.textBox3.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox3.Font = new System.Drawing.Font("Times New Roman", 16F);
-            this.textBox3.Location = new System.Drawing.Point(34, 297);
+            this.textBox3.Location = new System.Drawing.Point(34, 284);
             this.textBox3.Name = "textBox3";
             this.textBox3.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBox3.Size = new System.Drawing.Size(342, 32);
@@ -165,11 +166,22 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // textBox4
+            // 
+            this.textBox4.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.textBox4.Font = new System.Drawing.Font("Times New Roman", 16F);
+            this.textBox4.Location = new System.Drawing.Point(426, 182);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.textBox4.Size = new System.Drawing.Size(342, 32);
+            this.textBox4.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBox4);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -206,6 +218,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.TextBox textBox4;
     }
 }
 

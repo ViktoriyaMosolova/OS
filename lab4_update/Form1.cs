@@ -13,15 +13,15 @@ namespace WindowsFormsApp4
 {
     public partial class Form1 : Form
     {
-        public readonly Thread str1;
-        public readonly Thread str2;
-        public readonly Thread cat;
+        public readonly Thread str1, str2, cat;
+        public Thread murmur;
         public Form1()
         {
             InitializeComponent();
 
             str1 = new Thread(Mur);
             str2 = new Thread(Meow);
+            Console.WriteLine("form1:" + str2.ThreadState.ToString());
             label1.Text = "Priority mur: 1";
             label2.Text = "Priority meow: 1";
 
@@ -64,6 +64,23 @@ namespace WindowsFormsApp4
 
         void Meow()
         {
+            Console.WriteLine("meow:" + str2.ThreadState.ToString());
+            murmur = new Thread(Kotic);
+            try
+            {
+                if (murmur.IsAlive)
+                {
+                    murmur.Resume();
+                }
+                else
+                {
+                    murmur.Start();
+                }
+            }
+            catch
+            {
+
+            }
             ulong x = 3;
             while (true)
             {
@@ -73,6 +90,15 @@ namespace WindowsFormsApp4
             }
         }
         
+
+        void Kotic()
+        {
+            while (true)
+            {
+                textBox4.Text += "A";
+                Thread.Sleep(500);
+            }
+        }
 
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
@@ -165,7 +191,7 @@ namespace WindowsFormsApp4
             try 
             { 
                 if (str2.IsAlive)
-                {
+                { 
                     str2.Resume();
                 }
                 else
@@ -192,6 +218,7 @@ namespace WindowsFormsApp4
             str1.Abort();
             str2.Abort();
             cat.Abort();
+            murmur.Abort();
         }
     }
 }
