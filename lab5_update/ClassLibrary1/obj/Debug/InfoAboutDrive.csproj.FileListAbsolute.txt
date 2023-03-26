@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary1\obj\Debug\InfoAboutDrive.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary1\obj\Debug\InfoAboutDrive.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\1\Desktop\techprog\lab6\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
