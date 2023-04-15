@@ -1,0 +1,1 @@
+15.04.2023 12:49:20 - ForegroundWindowChanged: Form1
