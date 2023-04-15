@@ -1,0 +1,17 @@
+
+15.04.2023 12:37:02 - ForegroundWindowChanged: Form1
+15.04.2023 12:37:13 - ForegroundWindowChanged: 
+15.04.2023 12:37:13 - ForegroundWindowChanged: Debug
+15.04.2023 12:37:16 - ForegroundWindowChanged: Блокнот
+15.04.2023 12:37:21 - ForegroundWindowChanged: Debug
+15.04.2023 12:37:22 - KeyDown: 82 или R, Window: Debug
+15.04.2023 12:37:22 - KeyDown: 82 или R, Window: Debug
+15.04.2023 12:37:22 - KeyDown: 70 или F, Window: Debug
+15.04.2023 12:37:22 - KeyDown: 82 или R, Window: Debug
+15.04.2023 12:37:22 - KeyDown: 69 или E, Window: Debug
+15.04.2023 12:37:22 - KeyDown: 70 или F, Window: Debug
+15.04.2023 12:37:22 - KeyDown: 83 или S, Window: Debug
+15.04.2023 12:37:23 - KeyDown: 68 или D, Window: Debug
+15.04.2023 12:37:28 - ForegroundWindowChanged: Блокнот
+15.04.2023 12:38:05 - ForegroundWindowChanged: Debug
+15.04.2023 12:38:07 - ForegroundWindowChanged: Form1
