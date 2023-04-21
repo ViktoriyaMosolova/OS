@@ -1,0 +1,33 @@
+C:\Users\mosol\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\mosol\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\mosol\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\mosol\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\mosol\OneDrive\Рабочий стол\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

@@ -1,0 +1,46 @@
+21.04.2023 19:39:23 Active window changed: Главная, Thread: 4
+21.04.2023 19:39:25 Active window changed: Главная, Thread: 4
+21.04.2023 19:39:25 Active window changed: Form1, Thread: 4
+21.04.2023 19:39:29 Active window changed: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: E, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: F, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: C, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: N, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: R, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: F, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: F, Active window: Form1, Thread: 4
+21.04.2023 19:39:30 Key pressed: R, Active window: Form1, Thread: 4
+21.04.2023 19:39:31 Key pressed: E, Active window: Form1, Thread: 4
+21.04.2023 19:39:31 Key pressed: J, Active window: Form1, Thread: 4
+21.04.2023 19:39:31 Key pressed: K, Active window: Form1, Thread: 4
+21.04.2023 19:39:31 Key pressed: Q, Active window: Form1, Thread: 4
+21.04.2023 19:39:31 Key pressed: M, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D1, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D2, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D3, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D4, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D5, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D6, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D7, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D8, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D9, Active window: Form1, Thread: 4
+21.04.2023 19:39:32 Key pressed: D0, Active window: Form1, Thread: 4
+21.04.2023 19:39:33 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:33 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:33 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:33 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:34 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:34 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:34 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:34 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:34 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:34 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:35 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:36 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:36 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:36 Key pressed: Space, Active window: Form1, Thread: 4
+21.04.2023 19:39:43 Active window changed: Главная, Thread: 4
+21.04.2023 19:39:45 Active window changed: Блокнот, Thread: 4
+21.04.2023 19:39:54 Active window changed: Главная, Thread: 4
+21.04.2023 19:39:55 Active window changed: Form1, Thread: 4
