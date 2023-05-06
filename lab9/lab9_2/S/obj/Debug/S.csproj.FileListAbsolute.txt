@@ -1,0 +1,26 @@
+C:\Users\mosol\OneDrive\Рабочий стол\S\bin\Debug\S.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\S\bin\Debug\S.exe
+C:\Users\mosol\OneDrive\Рабочий стол\S\bin\Debug\S.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.exe
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\S\bin\Debug\SimpleTCP.dll
+C:\Users\mosol\OneDrive\Рабочий стол\S\obj\Debug\S.csproj.CopyComplete
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\bin\Debug\S.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\bin\Debug\S.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\bin\Debug\S.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\bin\Debug\SimpleTCP.dll
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.csproj.CopyComplete
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\S\obj\Debug\S.pdb

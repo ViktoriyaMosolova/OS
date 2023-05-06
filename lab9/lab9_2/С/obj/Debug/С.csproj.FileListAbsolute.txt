@@ -1,0 +1,39 @@
+C:\Users\mosol\OneDrive\Рабочий стол\С\bin\Debug\С.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\С\bin\Debug\С.exe
+C:\Users\mosol\OneDrive\Рабочий стол\С\bin\Debug\С.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.exe
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\С\bin\Debug\SimpleTCP.dll
+C:\Users\mosol\OneDrive\Рабочий стол\С\obj\Debug\С.csproj.CopyComplete
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\bin\Debug\С.exe.config
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\bin\Debug\С.exe
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\bin\Debug\С.pdb
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\bin\Debug\SimpleTCP.dll
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.csproj.SuggestedBindingRedirects.cache
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.Form1.resources
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.Properties.Resources.resources
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.csproj.GenerateResource.cache
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.csproj.CopyComplete
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.exe
+\\wsl.localhost\Ubuntu-22.04\home\mjollror\С\obj\Debug\С.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\bin\Debug\С.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\bin\Debug\С.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\bin\Debug\С.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\bin\Debug\SimpleTCP.dll
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.csproj.CopyComplete
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_2\С\obj\Debug\С.pdb

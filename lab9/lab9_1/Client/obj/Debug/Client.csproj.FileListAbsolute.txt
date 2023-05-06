@@ -1,0 +1,22 @@
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\bin\Debug\Client.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\bin\Debug\Client.exe
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\bin\Debug\Client.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.exe
+C:\Users\mosol\OneDrive\Рабочий стол\lab9\Client\obj\Debug\Client.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\bin\Debug\Client.exe.config
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\bin\Debug\Client.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\bin\Debug\Client.pdb
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.Form1.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.exe
+C:\Users\mosol\OneDrive\Рабочий стол\мусор всякий\OS\lab9\lab9_1\Client\obj\Debug\Client.pdb
