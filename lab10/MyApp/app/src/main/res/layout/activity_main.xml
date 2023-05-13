@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Мои дела на сегодня"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/task1_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:hint="Задача 1" />
+
+    <Button
+        android:id="@+id/task1_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Выполнено" />
+
+    <EditText
+        android:id="@+id/task2_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:hint="Задача 2" />
+
+    <Button
+        android:id="@+id/task2_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Выполнено" />
+
+    <EditText
+        android:id="@+id/task3_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:hint="Задача 3" />
+
+    <Button
+        android:id="@+id/task3_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Выполнено" />
+
+    <TextView
+        android:id="@+id/result_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
